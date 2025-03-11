@@ -16,7 +16,7 @@
     
     <header class="text-center py-12 bg-blue-500 text-white">
         <h2 class="text-4xl font-bold">Instituto SISE</h2>
-        <p class="text-lg mt-2">Explora nuestros carreras y mejora tus habilidades.</p>
+        <p class="text-lg mt-2">Explora nuestras carreras y mejora tus habilidades.</p>
     </header>
     
     <main class="container mx-auto px-4 py-10">
