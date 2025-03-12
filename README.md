@@ -10,6 +10,7 @@
 El sistema incluirá módulos clave como la gestión de estudiantes, que permitirá su registro y actualización, gestión de materias para su elección, gestión de docentes para su asignación a materia, y gestión de calificaciones para el registro y consulta de notas.</h3>
 
 <h2>Estructura Base de datos</h2>
+
 -Estudiantes
 -Docentes
 -Inscripciones
