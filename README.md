@@ -26,4 +26,5 @@ El sistema incluirá módulos clave como la gestión de estudiantes, que permiti
 -Calificaciones
 
 <h2>Modulos del Sistema</h2>
+
 <h3>Gestión de Estudiantes: Registra un estudiante, modifica</h3>
