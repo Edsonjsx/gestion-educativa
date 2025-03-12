@@ -27,7 +27,8 @@ El sistema incluirá módulos clave como la gestión de estudiantes, que permiti
 
 <h2>Modulos del Sistema</h2>
 
-<h3>Gestión de Estudiantes: Registra un estudiante, modifica sus datos</h3>
+<h3>Gestión de Estudiantes: 
+Registra un estudiante, modifica sus datos</h3>
 <h3>Gestion de docentes: Registra el docente , modifica sus datos</h3>
 <h3>Gestión de Carrera: Registra carreras, modifica las carreras, elimina carreras</h3>
 <h3>Gestión de inscripciones: Registra su inscripción, edita y elimina</h3>
