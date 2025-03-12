@@ -12,7 +12,6 @@ El sistema incluirá módulos clave como la gestión de estudiantes, que permiti
 <h2>Estructura Base de datos</h2>
 
 -Estudiantes
-
 -Docentes
 
 -Inscripciones
